@@ -1,0 +1,63 @@
+c File name: f5050w05.knp
+c This is an UNCORRELATED instance of the  bi-criteria KP problem,
+c where wj, v1j, and v2j are generated in the interval [1, 300].
+c The seed number used for generate the sequence wj was 140
+c The seed number used for generate the sequence v1j was 1040
+c The seed number used for generate the sequence v2j was 2040
+c The capacity W is equal to 50 percent of the SumWj
+c
+n 50
+c
+i 232   16  154
+i 250   51  295
+i 280  168  267
+i 158   37   91
+i  73  130  176
+i  90   93  189
+i  51  196  149
+i  71  239  202
+i  15  270  103
+i 180  285  111
+i 163   34  263
+i 268  111  171
+i 207  284   40
+i  34  165  153
+i  80   82  193
+i 238   19  270
+i  97   72  229
+i 258   83  106
+i  97  262  177
+i 186  221   80
+i 285  164   67
+i 102   35  122
+i  95  268   73
+i 199  151  262
+i 179  202  191
+i  15  240  227
+i 128  135   79
+i 289  256   76
+i 222   71  119
+i  83  124  212
+i 227  165   71
+i  52  181  204
+i 241  266  201
+i  22  253   90
+i 103  138   93
+i 291    1   64
+i 264  268  251
+i  15  234   10
+i 168  265  180
+i 209  160  291
+i  81   22  286
+i 242   25  276
+i 171  282   27
+i  43  291  132
+i  63  279  223
+i 220   76  220
+i 185  263  155
+i  25  136   44
+i  77  185  187
+i 206   26  134
+c
+W      3765
+c end of file

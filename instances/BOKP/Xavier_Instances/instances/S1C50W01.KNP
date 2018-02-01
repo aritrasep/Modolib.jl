@@ -1,0 +1,64 @@
+c File name: s1c50w01.knp
+c This is a STRONGLY CORRELATED instance of the  bi-criteria KP problem,
+c where wj, is generated in the range [1, 1000].
+c where v1j, is equal to wj+100.
+c where v2j, is generated in the range [1, 1000].
+c The seed number used for generate the sequence wj was 100
+c The seed number used for generate the sequence v2j was 2000
+c The capacity W is equal to 50 percent of the SumWj
+c
+n 50
+c
+i 412  512  680
+i 414  514  635
+i 156  256  678
+i 375  475  837
+i  82  182   14
+i 921 1021  755
+i 544  644  216
+i 594  694  769
+i 792  892  961
+i 323  423  802
+i 774  874  545
+i 661  761  432
+i  46  146  882
+i 379  479  801
+i 904 1004  602
+i 979 1079  353
+i 334  434  600
+i 389  489  442
+i  86  186  289
+i 541  641  578
+i 878  978  991
+i 859  959  700
+i 512  612  215
+i 923 1023   68
+i 512  612  765
+i 849  949  357
+i  58  158  574
+i 407  507  325
+i 868  968  838
+i 397  497  811
+i 341  441   88
+i 589  689  515
+i 229  329  726
+i  70  170  244
+i 563  663  927
+i 264  364  204
+i 297  397  669
+i 162  262  606
+i  49  149  189
+i 200  300   54
+i 291  391  947
+i 400  500  920
+i 257  357  521
+i 857  957  225
+i 602  702  177
+i 175  275  762
+i  60  160  303
+i 423  523  523
+i 620  720  199
+i 989 1089  268
+c
+W     11704
+c end of file
